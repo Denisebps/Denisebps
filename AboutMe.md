@@ -1,3 +1,9 @@
+---
+theme: jekyll-theme-architect
+layout: Page
+title: "About me"
+permalink: /AboutMe/
+---
 ## About me
 
 Found out my passion for coding in 2016 during my Ph.D. It grew so strong that I decided to change my thesis.
