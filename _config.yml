@@ -1,3 +1,7 @@
 theme: jekyll-theme-architect
 title: Welcome to Denise's home page!
 description: Here I'll present my portfolio projects and show a little bit of myself
+
+layout: AboutMe
+title: "About me"
+permalink: /AboutMe/
