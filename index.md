@@ -1,6 +1,9 @@
 [comment]: # ([## About me](https://denisebps.github.io/Denisebps/AboutMe/){: .btn})
 
-{% include button.html url="https://denisebps.github.io/Denisebps/AboutMe/" %}
+[comment]: # ({% include button.html url="https://denisebps.github.io/Denisebps/AboutMe/" %})
+
+<button onclick="window.location.href='https://denisebps.github.io/Denisebps/AboutMe/';">Click</button>
+
 
 ## About me
 
