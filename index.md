@@ -1,4 +1,4 @@
-[## About me](https://denisebps.github.io/Denisebps/AboutMe/){: .btn}
+[comment]: # ([## About me](https://denisebps.github.io/Denisebps/AboutMe/){: .btn})
 
 {% include button.html url="https://denisebps.github.io/Denisebps/AboutMe/" %}
 
