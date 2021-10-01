@@ -1,6 +1,5 @@
 ---
 theme: jekyll-theme-architect
-layout: Page
 title: "About me"
 permalink: /AboutMe/
 ---
