@@ -1,5 +1,5 @@
 ---
-theme: jekyll-theme-architect
+#theme: jekyll-theme-architect
 title: "About me"
 permalink: /AboutMe/
 ---
