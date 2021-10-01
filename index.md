@@ -1,10 +1,3 @@
-[comment]: # ([## About me](https://denisebps.github.io/Denisebps/AboutMe/){: .btn})
-
-[comment]: # ({% include button.html url="https://denisebps.github.io/Denisebps/AboutMe/" %})
-
-[comment]: # (<button onclick="window.location.href='https://denisebps.github.io/Denisebps/AboutMe/';">Click</button>)
-
-
 ## About me
 
 Education, Hobbies, volunteering, parenting
