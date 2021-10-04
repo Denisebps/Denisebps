@@ -1,15 +1,19 @@
-## [About me](https://denisebps.github.io/Denisebps/AboutMe/){: .btn}
+## About me
 
-Education, Hobbies, volunteering, parenting
+[A little bit about me](https://denisebps.github.io/Denisebps/AboutMe/){: .btn}
 
-## Future Directions
+[comment]: # (Education, Hobbies, volunteering, parenting)
 
-dream, dream big
+[comment]: # (## Future Directions)
 
-## Parenting while being a good data scientist
+[comment]: # (dream, dream big)
 
-blog about the funny bits of being a mom and being a professional
+[comment]: # (## Parenting while being a good data scientist)
+
+[comment]: # (blog about the funny bits of being a mom and being a professional)
 
 ## Portfolio
 
-data science projects
+[GitLab projects](https://gitlab.com/denisebps){: .btn}
+
+[comment]: # (data science projects)
