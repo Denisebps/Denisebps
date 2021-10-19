@@ -18,4 +18,4 @@
 
 [GitLab projects](https://gitlab.com/denisebps){: .btn}
 
-[comment]: # (data science projects){: .btn}
+[comment]: # (data science projects)
